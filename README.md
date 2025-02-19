@@ -3,10 +3,9 @@
 ![Logo de la Universidad](https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Polit%C3%A9cnica_Salesiana_del_Ecuador.png)
 
 ### Carátula
-- **Universidad:** [Nombre de la universidad]
-- **Carrera:** [Nombre de la carrera]
-- **Materia:** [Nombre de la materia]
-- **Integrantes:** [Lista de nombres con correos institucionales]
+- **Carrera:** Ingeniera en Ciencias de la Comnputacion
+- **Materia:** Estructura de Datos
+- **Integrantes:** Angel Cardenas y Jose Tixi
 
 ### Introducción
 Este informe documenta el desarrollo de una aplicación para encontrar la ruta óptima en un laberinto utilizando diferentes enfoques algorítmicos. El proyecto está basado en la materia "Estructura de Datos" y aplica conceptos de programación dinámica, estructuras de datos lineales y no lineales.
@@ -30,7 +29,7 @@ El laberinto se modela como una matriz de celdas transitables y no transitables.
 - **Interfaz (`interfaces`)**: Define la interfaz `MazeSolve` para estandarizar las implementaciones.
 - **Clase Principal (`App.java`)**: Orquesta la ejecución de los algoritmos y la visualización del laberinto.
 
-(C:\Users\tixi4\OneDrive - Universidad Politecnica Salesiana\ups\icc- est- u2- SETS)
+> **Imagen sugerida:** ![Estructura del Proyecto](C:\Users\tixi4\OneDrive - Universidad Politecnica Salesiana\ups\icc- est- u2- SETS/by_nick_448748935_1045259933859542_1911585521208450181_n.jpg)
 
 #### Implementación de Algoritmos
 Cada algoritmo se implementa en una clase distinta:
