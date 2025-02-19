@@ -30,7 +30,7 @@ El laberinto se modela como una matriz de celdas transitables y no transitables.
 - **Interfaz (`interfaces`)**: Define la interfaz `MazeSolve` para estandarizar las implementaciones.
 - **Clase Principal (`App.java`)**: Orquesta la ejecución de los algoritmos y la visualización del laberinto.
 
->![Estructura del Proyecto](Imagenes\chagpt.png)
+>![Estructura del Proyecto](Imagenes/chagpt.png)
 
 #### Implementación de Algoritmos
 Cada algoritmo se implementa en una clase distinta:
@@ -38,7 +38,7 @@ Cada algoritmo se implementa en una clase distinta:
 - `MazeSolveBFS.java`: Usa BFS para encontrar la ruta más corta.
 - `MazeSolverDPB.java`: Aplica programación dinámica para mejorar la eficiencia.
 
->![Código de Implementación](ruta/a/tu/imagen.png)
+>![Código de Implementación](Imagenes/by_nick_449032666_3700470563563105_5772677074616614575_n.jpg)
 
 #### Entrada y Salida
 - **Entrada**: Matriz booleana que representa el laberinto, celdas de inicio y destino.
