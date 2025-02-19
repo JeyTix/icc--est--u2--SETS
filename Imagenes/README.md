@@ -30,7 +30,7 @@ El laberinto se modela como una matriz de celdas transitables y no transitables.
 - **Interfaz (`interfaces`)**: Define la interfaz `MazeSolve` para estandarizar las implementaciones.
 - **Clase Principal (`App.java`)**: Orquesta la ejecución de los algoritmos y la visualización del laberinto.
 
->![Estructura del Proyecto](Imagenes\chagpt.png)
+>![Estructura del Proyecto](by_nick_448748935_1045259933859542_1911585521208450181_n.jpg)
 
 #### Implementación de Algoritmos
 Cada algoritmo se implementa en una clase distinta:
